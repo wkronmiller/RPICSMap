@@ -20,6 +20,6 @@ This is a proof of concept. Hopefully someone will pick it up and add it to YACS
 
 I have to go back to research stuff now :P
 
-#NOTE
+# NOTE
 
 Only tested on Safari 10.1.1
