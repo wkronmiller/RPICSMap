@@ -19,3 +19,7 @@ One of our professors wanted something like this for figuring out class schedule
 This is a proof of concept. Hopefully someone will pick it up and add it to YACS.
 
 I have to go back to research stuff now :P
+
+#NOTE
+
+Only tested on Safari 10.1.1
